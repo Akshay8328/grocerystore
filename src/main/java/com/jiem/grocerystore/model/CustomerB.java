@@ -1,5 +1,6 @@
 package com.jiem.grocerystore.model;
 
-public class CustomerB implements Customer {
-
+public class CustomerB  {
+	int arrival_offset;
+	
 }
